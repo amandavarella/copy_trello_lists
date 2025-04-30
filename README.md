@@ -1,7 +1,7 @@
 
 # 📋 Trello List Copier (Ruby Script)
 
-This Ruby script copies all lists (columns) and their cards from one Trello board (source) to another (destination) using the Trello API.
+This Ruby script copies all lists (columns) and their cards from one Trello board (source) to another (destination) using the Trello API. All copied lists will be added to the end of the destination board
 
 ## 🚀 Features
 
